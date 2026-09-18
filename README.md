@@ -4,18 +4,18 @@ A collection of smart contract security reviews — manual audits, findings, and
 
 Each review follows a structured process: architecture review, manual code analysis, static analysis, fuzzing, and exploit validation, with findings documented by severity and impact.
 
----
 
 ## Reports
 
 | Project | Type | Findings | Report |
 |---|---|---|---|
-| Password Store | Access Control / Storage | — | [PDF](./reports/2026-08-18-passwordstore-audit-report.pdf) · [Markdown](./reports_md/2026-08-18-passwordstore-audit-.md) |
-| Puppy Raffle | Randomness / DoS | — | [PDF](./reports/2026-08-29-puppyraffle-audit-report.pdf) · [Markdown](./reports_md/2026-08-29-puppyraffle-audit-report.md) |
+| Vault Guardians | Vault / Asset Management | — | [PDF](./reports/YYYY-MM-DD-vaultguardians-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-vaultguardians-audit.md) |
+| Boss Bridge | Cross-Chain Bridge | — | [PDF](./reports/YYYY-MM-DD-bossbridge-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-bossbridge-audit.md) |
+| Thunder Loan | Flash Loan / DeFi Protocol | — | [PDF](./reports/YYYY-MM-DD-thunderloan-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-thunderloan-audit.md) |
 | TSwap | AMM / DeFi Protocol | — | [PDF](./reports/2026-09-12-tswap-audit-report.pdf) · [Markdown](./reports_md/2026-09-12-tswap-audit.md) |
+| Puppy Raffle | Randomness / DoS | — | [PDF](./reports/2026-08-29-puppyraffle-audit-report.pdf) · [Markdown](./reports_md/2026-08-29-puppyraffle-audit-report.md) |
+| Password Store | Access Control / Storage | — | [PDF](./reports/2026-08-18-passwordstore-audit-report.pdf) · [Markdown](./reports_md/2026-08-18-passwordstore-audit-.md) |
 
-
----
 
 ## Methodology
 
@@ -27,7 +27,6 @@ Codebase & Docs → Threat Modeling → Manual Review
    (AI-Powered Tooling supports each stage above)
 ```
 
----
 
 ## About
 
