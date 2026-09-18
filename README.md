@@ -14,7 +14,6 @@ Each review follows a structured process: architecture review, manual code analy
 | Puppy Raffle | Randomness / DoS | — | [PDF](./reports/2026-08-29-puppyraffle-audit-report.pdf) · [Markdown](./reports_md/2026-08-29-puppyraffle-audit-report.md) |
 | TSwap | AMM / DeFi Protocol | — | [PDF](./reports/2026-09-12-tswap-audit-report.pdf) · [Markdown](./reports_md/2026-09-12-tswap-audit.md) |
 
-*Findings column: add total count or severity breakdown (e.g. 2 High, 3 Medium) once finalized per report.*
 
 ---
 
@@ -22,21 +21,11 @@ Each review follows a structured process: architecture review, manual code analy
 
 ```
 Codebase & Docs → Threat Modeling → Manual Review
-   → Static Analysis → Fuzzing & Invariants → Exploit Validation → Report
+   → Static Analysis → Fuzzing & Invariants → Formal Verification
+   → Exploit Validation → Report
+ 
+   (AI-Powered Tooling supports each stage above)
 ```
-
-Each report includes:
-- Scope and system overview
-- Findings by severity (Critical / High / Medium / Low / Informational)
-- Root cause analysis
-- Proof-of-concept exploits where applicable
-- Recommended remediations
-
----
-
-## Tooling
-
-`Solidity` `Foundry` `Slither` `Aderyn` `Echidna` `Halmos`
 
 ---
 
