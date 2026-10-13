@@ -78,9 +78,9 @@ Assisting Auditors:
 
 # About Aiman Ubayd
 
-Aiman Ubayd is a smart contract auditor and security researcher. He researches how EVM & DeFi protocols fail, tracing exploit paths in protocol logic, economics, and trust boundaries. He combines manual security research with fuzzing, invariant testing, and formal verification, backed by AI-powered tooling and AI agents for web3 security analysis.
+Aiman Ubayd is a smart contract auditor and security researcher. He researches how EVM & DeFi protocols fail, tracing exploit paths in protocol logic, economics, and trust boundaries. He combines manual review with invariant-driven fuzzing and formal verification, backed by AI-powered tooling and AI agents for web3 security analysis.
 
-- **X (Twitter):** [https://x.com/aimanubayd]
+- **X:** [https://x.com/aimanubayd]
 - **GitHub:** [https://github.com/aimanubayd]
 - **LinkedIn:** [https://linkedin.com/in/aimanubayd]
 - **Contact:** [aimanubayd@gmail.com]
