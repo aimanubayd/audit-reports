@@ -28,14 +28,13 @@ header-includes:
 
 Prepared by: Aiman Ubayd
 
+Lead Auditor: Aiman Ubayd
+
 Assisting Auditors:
 
 - None
 
 # Table of contents
-<details>
-
-<summary>See table</summary>
 
 - [Thunder Loan Audit Report](#thunder-loan-audit-report)
 - [Table of contents](#table-of-contents)
@@ -73,7 +72,7 @@ Assisting Auditors:
     - [\[GAS-1\] Using bools for storage incurs overhead](#gas-1-using-bools-for-storage-incurs-overhead)
     - [\[GAS-2\] Using `private` rather than `public` for constants, saves gas](#gas-2-using-private-rather-than-public-for-constants-saves-gas)
     - [\[GAS-3\] Unnecessary SLOAD when logging new exchange rate](#gas-3-unnecessary-sload-when-logging-new-exchange-rate)
-</details>
+
 </br>
 
 # About Aiman Ubayd
