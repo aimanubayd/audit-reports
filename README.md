@@ -18,16 +18,6 @@ Each review follows a structured process: architecture review, manual code analy
 | Password Store | Access Control / Storage | — | [PDF](./reports/2026-08-18-passwordstore-audit-report.pdf) · [Markdown](./reports_md/2026-08-18-passwordstore-audit-.md) |
 
 
-## Methodology
-
-```
-Codebase & Docs → Threat Modeling → Manual Review
-   → Static Analysis → Fuzzing & Invariants → Formal Verification
-   → Exploit Validation → Report
- 
-   (AI-Powered Tooling supports each stage above)
-```
-
 
 ## About
 
