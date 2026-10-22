@@ -9,6 +9,7 @@ Each review follows a structured process: architecture review, manual code analy
 
 | Project | Type | Findings | Report |
 |---|---|---|---|
+| Math Master | Formal Verification | — | [PDF](./reports/2026-10-13-math-master-report.pdf) · [Markdown](./reports_md/2026-10-13-math-master-audit.md) |
 | Vault Guardians | Vault / Asset Management | — | [PDF](./reports/YYYY-MM-DD-vaultguardians-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-vaultguardians-audit.md) |
 | Boss Bridge | Cross-Chain Bridge | — | [PDF](./reports/YYYY-MM-DD-bossbridge-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-bossbridge-audit.md) |
 | Thunder Loan | Flash Loan / DeFi Protocol | — | [PDF](./reports/YYYY-MM-DD-thunderloan-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-thunderloan-audit.md) |
