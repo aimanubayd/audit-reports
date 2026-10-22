@@ -9,12 +9,12 @@ Each review follows a structured process: architecture review, manual code analy
 
 | Project | Type | Findings | Report |
 |---|---|---|---|
-| Math Master | Formal Verification | — | [PDF](./reports/2026-10-13-math-master-report.pdf) · [Markdown](./reports_md/2026-10-13-math-master-audit.md) |
-| Vault Guardians | Vault / Asset Management | — | [PDF](./reports/YYYY-MM-DD-vaultguardians-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-vaultguardians-audit.md) |
-| Boss Bridge | Cross-Chain Bridge | — | [PDF](./reports/YYYY-MM-DD-bossbridge-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-bossbridge-audit.md) |
-| Thunder Loan | Flash Loan / DeFi Protocol | — | [PDF](./reports/YYYY-MM-DD-thunderloan-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-thunderloan-audit.md) |
-| TSwap | AMM / DeFi Protocol | — | [PDF](./reports/2026-09-12-tswap-audit-report.pdf) · [Markdown](./reports_md/2026-09-12-tswap-audit.md) |
-| Puppy Raffle | Randomness / DoS | — | [PDF](./reports/2026-08-29-puppyraffle-audit-report.pdf) · [Markdown](./reports_md/2026-08-29-puppyraffle-audit-report.md) |
+| Math Master | Formal Verification | 3H 3L 1I | [PDF](./reports/2026-10-13-math-master-report.pdf) · [Markdown](./reports_md/2026-10-13-math-master-audit.md) |
+| Vault Guardians | Vault / Asset Management | 3H 1M 2L | [PDF](./reports/2026-08-25-valt-guardians-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-vaultguardians-audit.md) |
+| Boss Bridge | Cross-Chain Bridge | 8H 1M 3L 1I | [PDF](./reports/YYYY-MM-DD-bossbridge-audit-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-bossbridge-audit.md) |
+| Thunder Loan | Flash Loan / DeFi Protocol | 4H 4M 3L 4I 3G | [PDF](./reports/2026-09-2-thunder-loan-report.pdf) · [Markdown](./reports_md/YYYY-MM-DD-thunderloan-audit.md) |
+| TSwap | AMM / DeFi Protocol | 4H 2M 2L 9I | [PDF](./reports/2026-09-12-tswap-audit-report.pdf) · [Markdown](./reports_md/2026-09-12-tswap-audit.md) |
+| Puppy Raffle | Randomness / DoS | 3H 3M 1L 7I 2G | [PDF](./reports/2026-08-29-puppyraffle-audit-report.pdf) · [Markdown](./reports_md/2026-08-29-puppyraffle-audit-report.md) |
 | Password Store | Access Control / Storage | — | [PDF](./reports/2026-08-18-passwordstore-audit-report.pdf) · [Markdown](./reports_md/2026-08-18-passwordstore-audit-.md) |
 
 
